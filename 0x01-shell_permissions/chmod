@@ -1,0 +1,3 @@
+r!/bin/bash
+r_permissions                                                           
+chmod --reference=olleh hello
